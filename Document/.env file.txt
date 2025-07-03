@@ -1,0 +1,11 @@
+# IBM Watsonx Granite LLM
+GRANITE_API_KEY=your_ibm_granite_api_key_here
+
+# Pinecone Vector Database
+PINECONE_API_KEY=your_pinecone_api_key_here
+PINECONE_ENV=us-west1-gcp
+PINECONE_INDEX_NAME=smartcity-index
+
+# App Settings
+LOG_LEVEL=debug
+DEBUG_MODE=true
